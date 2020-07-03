@@ -1,0 +1,25 @@
+RFID Tag:- 04 3C CA 83
+
+time: 0
+time: 999
+time: 1999
+time: 3000
+time: 4000
+time: 5001
+time: 6000
+time: 7001
+time: 8001
+time: 9001
+time: 10002
+time: 11002
+time: 12002
+time: 13002
+time: 14003
+time: 15003
+Timer has endedtime: 16004
+Timer has endedtime: 17004
+Timer has endedtime: 18004
+Timer has endedtime: 19005
+Timer has endedtime: 20005
+Timer has endedtime: 21006
+Timer has ended

@@ -1,0 +1,2 @@
+RFID Tag:- 04 3C CA 83
+RFID White Card:- 12 2A 12 28
